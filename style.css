@@ -11,15 +11,12 @@
 }
 .ota h1{
     font-family: "Pacifico";
-    margin-left: 100px;
+    margin-left: 125px;
 }
 .ota input{
     padding: 10px;
     margin: 10px;
-    margin-left: 70px;
-}
-.a a{
-    text-decoration: none;
+    margin-left: 90px;
 }
 .a h3{
     color: aliceblue;
@@ -28,11 +25,58 @@
     border-radius: 20px;
     padding-left: 70px;
     padding-right: 70px;
-    margin-left: 65px;
+    margin-left: 90px;
 }
 .ota h2{
-    margin-left: 133px;
+    margin-left: 160px;
 }
-.ORG h3{
-    margin-left: 20px;
+.ota a{
+    text-decoration: none;
+}
+#Facebook{
+    position: absolute;
+        left: 29%;
+}
+.parol h3{
+    margin-left: 118px;
+}
+.ona fieldset{
+    width: 20%;
+    position: absolute;
+        left: 50%;
+        top: 64%;
+}
+#acc {
+    text-decoration: none;
+    color:cornflowerblue;
+}
+#p{
+    position: absolute;
+        top: 73%;
+        left: 56%;
+}
+#playmarket{
+    position: absolute;
+        top: 77%;
+        left: 50%;
+}
+#store{
+    position: absolute;
+        top: 77%;
+        left: 60%;
+}
+#API{
+    position: absolute;
+        top: 85%;
+        left: 20%;
+}
+#Russia{
+    position: absolute;
+        top: 90%;
+        left: 45%;
+}
+#copyright{
+    position: absolute;
+        top: 88%;
+        left: 50%;
 }

@@ -1,31 +1,35 @@
 .ona img{
+    width: 30%;
     position: absolute;
         top: 13%;
-        left: 25%;
+        left: 20%;      
 }
 .ota fieldset{
-    width: 20%;
+    width: 27%;
     position: absolute;
         left: 50%;
         top: 15%;
 }
 .ota h1{
     font-family: "Pacifico";
-    margin-left: 125px;
+    margin-left: 140px;
+    font-size: 50px;
 }
 .ota input{
-    padding: 10px;
+    padding: 20px;
+    padding-left: 53px;
+    padding-right: 53px;
     margin: 10px;
-    margin-left: 90px;
+    margin-left: 103px;
 }
 .a h3{
     color: aliceblue;
 }
 .ota button{
     border-radius: 20px;
-    padding-left: 70px;
-    padding-right: 70px;
-    margin-left: 90px;
+    padding-left: 90px;
+    padding-right: 90px;
+    margin-left: 127px;
 }
 .ota h2{
     margin-left: 160px;
@@ -34,49 +38,59 @@
     text-decoration: none;
 }
 #Facebook{
+    font-size: 25px;
     position: absolute;
-        left: 29%;
+        left: 22%;
 }
 .parol h3{
     margin-left: 118px;
+    font-size: 20px;
 }
 .ona fieldset{
-    width: 20%;
+    width: 27%;
     position: absolute;
         left: 50%;
-        top: 64%;
+        top: 73%;
 }
 #acc {
     text-decoration: none;
     color:cornflowerblue;
 }
 #p{
+    font-size: 20px;
     position: absolute;
-        top: 73%;
-        left: 56%;
+        top: 81%;
+        left: 59%;
 }
 #playmarket{
     position: absolute;
-        top: 77%;
-        left: 50%;
+        top: 86%;
+        left: 53%;
 }
 #store{
     position: absolute;
-        top: 77%;
-        left: 60%;
+        top: 86%;
+        left: 63%;
 }
 #API{
     position: absolute;
-        top: 85%;
+        top: 105%;
         left: 20%;
 }
 #Russia{
+    width: 5%;
     position: absolute;
-        top: 90%;
-        left: 45%;
+        top: 109%;
+        left: 43%;
 }
 #copyright{
     position: absolute;
-        top: 88%;
+        top: 107%;
         left: 50%;
+}
+#ili{
+    margin-left: 210px;
+}
+.parol{
+    margin-left: 60px;
 }

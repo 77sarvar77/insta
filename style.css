@@ -1,135 +1,82 @@
-.ona img{
-    width: 30%;
-    margin: 20px;
-    position: absolute;
-        left: 20%;      
-}
-.ota fieldset{
-    border-radius: 5px;
-    width: 27%;
-    margin: 50px;
+fieldset{
     position: absolute;
         left: 50%;
-        top: 5%;
+        top: 15%;
+    width: 25%;
+    height: 520px;
+    text-align: center;
+    border-radius: 5px;
 }
-.ota h1{
+h1{
+    font-size: 60px;
     font-family: "Pacifico";
-    margin-left: 140px;
-    font-size: 50px;
 }
-.ota input{
+input{
+    width: 80%;
+    height: 9%;
+    margin: 10px;
+    outline: none;
     border-radius: 5px;
-    padding: 20px;
-    padding-left: 150px;
-    padding-right: 150px;
-    margin: 15px;
-    margin-left: 10px;
+    border: 1px solid grey;
 }
-.a h3{
-    color: aliceblue;
-}
-.ota button{
-    margin-top: 10px;
+button{
+    width: 82%;
+    height: 9%;
+    background-color: #008cff;
     border-radius: 5px;
-    padding-left: 210px;
-    padding-right: 210px;
-    margin-left: 10px;
+    border: 1px solid white;
 }
-.ota h2{
-    margin-left: 160px;
-}
-.ota a{
+a{
     text-decoration: none;
 }
-#Facebook{
-    font-size: 25px;
+img{
+    width: 25%;
+    margin: 10px;
     position: absolute;
-        left: 22%;
+        left: 23%;
+        top: 12%;
 }
-.parol h3{
-    margin-left: 118px;
-    font-size: 20px;
-}
-.ona fieldset{
+.js{
+    height: 55px;
+    position: absolute;
+        top: 73%;
     border-radius: 5px;
-    width: 27%;
-    margin: 50px;
-    position: absolute;
-        left: 50%;
-        top: 70%;
 }
-#acc {
-    text-decoration: none;
-    color:cornflowerblue;
-}
-#p{
-    font-size: 20px;
+.app{
     position: absolute;
-        top: 85%;
+        top: 81%;
+        left: 59%;
+}
+.playmarket{
+    width: 10%;
+    position: absolute;
+        top: 84%;
+        left: 52%;
+}
+.store{
+    width: 8%;
+    position: absolute;
+        top: 84%;
         left: 62%;
 }
-#playmarket{
+.ap p{
     position: absolute;
-        top: 91%;
-        left: 57%;
+        top: 95%;
+        left: 10%;
 }
-#store{
+.ap a{
+    color: grey;
+    margin: 10px;
+}
+select{
+    width: 100px;
+    height: 35px;
     position: absolute;
-        top: 91%;
-        left: 67%;
+        left: 40%;
+        top: 100%; 
 }
-#API{
+.copyright{
     position: absolute;
-        top: 105%;
-        left: 20%;
-}
-#Russia{
-    width: 5%;
-    position: absolute;
-        top: 109%;
-        left: 43%;
-}
-#copyright{
-    position: absolute;
-        top: 107%;
-        left: 50%;
-}
-#ili{
-    margin-left: 210px;
-}
-.parol{
-    margin-left: 60px;
-}
-#mt{
-    margin: 10px;
-}
-#if{
-    margin: 10px;
-}
-#th{
-    margin: 10px;
-}
-#api{
-    margin: 10px;
-}
-#bg{
-    margin: 10px;
-}
-#il{
-    margin: 10px;
-}
-#lc{
-    margin: 10px;
-}
-#mv{
-    margin: 10px;
-}
-#dw{
-    margin: 10px;
-}
-#us{
-    margin: 10px;
-}
-#cd{
-    margin: 10px;
+        left: 48%;
+        top: 99%;
 }

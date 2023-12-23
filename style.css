@@ -3,7 +3,7 @@ fieldset{
         left: 50%;
         top: 15%;
     width: 25%;
-    height: 520px;
+    height: 530px;
     text-align: center;
     border-radius: 5px;
 }
@@ -39,7 +39,7 @@ img{
 .js{
     height: 55px;
     position: absolute;
-        top: 73%;
+        top: 74%;
     border-radius: 5px;
 }
 .app{

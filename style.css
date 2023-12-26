@@ -1,8 +1,9 @@
 fieldset{
+    margin: 20px;
     position: absolute;
         left: 50%;
-        top: 7%;
-    width: 25%;
+        top:6%;
+    width: 21%;
     height: 500px;
     text-align: center;
     border-radius: 5px;
@@ -51,25 +52,29 @@ img{
 }
 .app{
     position: absolute;
-        top: 71%;
-        left: 59%;
+        top: 72%;
+        left: 57%;
+        font-size: 20px;
 }
 .playmarket{
-    width: 10%;
+    margin: 10px;
+    width: 12.3%;
     position: absolute;
-        top: 75%;
-        left: 52%;
+        top: 75.7%;
+        left: 50%;
 }
 .store{
-    width: 8%;
+    width: 10%;
+    margin: 10px;
     position: absolute;
-        top: 75%;
-        left: 62%;
+        top: 76%;
+        left: 63%;
 }
 .ap p{
+    font-size: 15px;
     position: absolute;
         top: 90%;
-        left: 10%;
+        left: 8%;
 }
 .ap a{
     color: grey;
@@ -81,10 +86,12 @@ select{
     height: 35px;
     position: absolute;
         left: 41%;
-        top: 96%; 
+        top: 95%; 
+        font-size: 15px;
 }
 .copyright{
+    font-size: 19px;
     position: absolute;
         left: 48%;
-        top: 95%;
+        top: 93.5%;
 }
